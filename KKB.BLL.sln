@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKB.BLL", "KKB.BLL\KKB.BLL.csproj", "{D9EB71A4-C62E-4B4E-9348-D0DCAF1653D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKB.web", "KKB.web\KKB.web.csproj", "{1FD69859-C47F-45E4-8012-DF72B37AD413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EB71A4-C62E-4B4E-9348-D0DCAF1653D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EB71A4-C62E-4B4E-9348-D0DCAF1653D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EB71A4-C62E-4B4E-9348-D0DCAF1653D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EB71A4-C62E-4B4E-9348-D0DCAF1653D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD69859-C47F-45E4-8012-DF72B37AD413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD69859-C47F-45E4-8012-DF72B37AD413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD69859-C47F-45E4-8012-DF72B37AD413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD69859-C47F-45E4-8012-DF72B37AD413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1B688D-6B2E-460A-AD61-A263D4C5C85A}
+	EndGlobalSection
+EndGlobal
